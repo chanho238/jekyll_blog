@@ -22,7 +22,7 @@ title: chj의 블로그
 email: chanho238@naver.com
 description: >- # this means to ignore newlines until "baseurl:"
  유익한 정보를 얻을 수 있는 곳...
-baseurl: "/jeykll_blog" # the subpath of your site, e.g. /blog
+baseurl: "/jekyll_blog" # the subpath of your site, e.g. /blog
 url: "https://chanho238.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
